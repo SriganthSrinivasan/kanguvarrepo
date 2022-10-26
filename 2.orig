@@ -1,0 +1,11 @@
+Test Line 01
+Test Line 02
+Test Line 03
+Test Line 04
+Test line 05
+<<<<<<< HEAD
+
+=======
+Test Line 06
+Test Line 07
+>>>>>>> feature01
