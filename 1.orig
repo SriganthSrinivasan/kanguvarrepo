@@ -1,0 +1,6 @@
+Test Line 01
+<<<<<<< HEAD
+Test Line 02
+=======
+New Line 02
+>>>>>>> feature01
